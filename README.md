@@ -16,5 +16,5 @@ Work in Progress - further Information soon.
   
 <img src="images/C64_SFX_ESP32_Version.jpg" width="900">
   
-*Figure 1 – C64 SFX ESP32 Version Menu*
+*Figure 2 – C64 SFX ESP32 Version Menu*
 </p>
